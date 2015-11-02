@@ -1,7 +1,7 @@
 {
   "name": "simple-redux",
   "version": "0.0.1",
-  "description": "Create Redux actions, reducer and constants for simple cases
+  "description": "Create Redux actions, reducer and constants for simple cases",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf lib",
