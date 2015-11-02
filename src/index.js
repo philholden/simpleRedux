@@ -1,4 +1,4 @@
-export default function SimpleRedux(actions, reducers, defaultState) {
+export default function simpleRedux(actions, reducers, defaultState) {
 
   let keys = Object.keys(actions);
   let reducerNames = {};
